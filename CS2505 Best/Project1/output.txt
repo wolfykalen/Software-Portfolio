@@ -1,0 +1,13 @@
+Searching file for matches for 10 values.
+
+Searched at Searching  Found at
+-------------------------------
+     7       385         5
+     4       291         6
+     9       125         7
+     2       417        10
+     0       589        11
+     4       291        14
+     6       392        17
+     5       330        19
+Number of items searched through in list: 27

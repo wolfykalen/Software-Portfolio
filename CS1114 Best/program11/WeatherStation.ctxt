@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WeatherStation
+comment0.text=\r\n\ \ depicts\ a\ Weather\ Station\ that\ reads\ rainfall\r\n\ \ finds\ the\ avg\ rainfall\ per\ month\ \r\n\ \ and\ the\ month\ with\ the\ least\ rainfall\r\n\r\n\ \ @author\ kalendaco\r\n\ \ @version\ 2023.11.28\r\n
+comment1.params=identifier
+comment1.target=WeatherStation(java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ WeatherStation\ object.\r\n\ \r\n\ @param\ identifier\ (String)\ depicts\ a\ Station\ ID\ for\ \r\n\ a\ weather\ station.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment2.text=\r\n\ A\ getter\ method\ returns\ an\ ID\ of\ the\ weather\ station.\r\n\ \r\n\ @return\ (String)\ depicts\ an\ ID\ of\ the\ weather\ station.\r\n
+comment3.params=month\ rainfall
+comment3.target=void\ recordDailyRain(int,\ double)
+comment3.text=\r\n\ records\ daily\ summarys\ by\ amount\ of\ rainfall\r\n\ \ and\ increasing\ amount\ of\ rain\ in\ that\ month.\r\n\ \r\n\ @param\ month\ (int)\ represents\ the\ month\ the\ rainfall\ occurred\ in.\r\n\ @param\ rainfall\ (double)\ represents\ the\ amount\ of\ rainfall\ that\ day.\r\n
+comment4.params=month
+comment4.target=int\ getCountForMonth(int)
+comment4.text=\r\n\ \ getter\ method\ returns\ the\ amount\ of\ days\ it\ rained\ in\ a\ month\ \r\n\ \r\n\ @param\ month\ (int)\ depicts\ the\ amount\ of\ days\ rained\ in\ a\ month\r\n\ @return\ (int)\ depicts\ a\ months\ rain\ \ couint\r\n
+comment5.params=month
+comment5.target=double\ getAvgForMonth(int)
+comment5.text=\r\n\ returns\ the\ average\ rainfall\ per\ day\ in\ a\ given\ month\ \r\n\ @param\ month\ (int)\ depicts\ the\ month\ you\ want\ to\ see\ the\ avg\ rainfall\r\n\ \r\n\ @return\ (double)\ depicts\ the\ average\ rainfall\ per\ day\ over\ the\ month\r\n
+comment6.params=
+comment6.target=int\ getLowestMonth()
+comment6.text=\r\n\ returns\ the\ month\ with\ the\ lowest\ rain\ per\ day\r\n\ \r\n\ @return\ (int)\ depicts\ the\ month\ with\ the\ lowest\ avg\ rain\ fall\ (1-12)\r\n
+numComments=7

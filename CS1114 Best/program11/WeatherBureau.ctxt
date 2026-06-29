@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WeatherBureau
+comment0.text=\r\n\ \ depicts\ a\ WeatherBureau\ object\ that\ records\ daily\r\n\ \ summaries\ and\ returns\ a\ station\ that\ has\ the\ \r\n\ \ lowest\ amount\ of\ rain\ per\ month.\r\n\r\n\ \ @author\ kalendaco\r\n\ \ @version\ 2023.11.28\r\n
+comment1.params=
+comment1.target=WeatherBureau()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ WeatherBureau\ object.\r\n
+comment2.params=input
+comment2.target=void\ recordDailySummary(java.lang.String)
+comment2.text=\r\n\ Records\ a\ daily\ summary\ statement.\r\n\ \r\n\ @param\ input\ (String)\ represents\ the\ daily\ summary\ statement.\r\n
+comment3.params=input
+comment3.target=void\ recordDailySummaries(java.util.Scanner)
+comment3.text=\r\n\ Creates\ a\ list\ of\ summary\ statements.\r\n\ \r\n\ @param\ input\ (Scanner)\ represents\ the\ input\ that\ contains\ the\ daily\r\n\ summary\ statements.\r\n
+comment4.params=iD
+comment4.target=WeatherStation\ getStation(java.lang.String)
+comment4.text=\r\n\ Returns\ a\ weather\ station\ that\ matches\ the\ weather\r\n\ station\ ID.\r\n\ \r\n\ @param\ iD\ (String)\ ID\ of\ a\ weather\ station.\r\n\ @return\ (WeatherStation)\ depicts\ a\ weather\ station\ with\ a\r\n\ matching\ ID.\r\n
+comment5.params=month
+comment5.target=WeatherStation\ lowestStation(int)
+comment5.text=\r\n\ Returns\ a\ weather\ station\ with\ the\ lowest\ average\ rainfall\r\n\ per\ specific\ month,\ returns\ null\ if\ there's\ no\ rainfall.\r\n\ \r\n\ @param\ month\ (int)\ depicts\ the\ month\ that\ was\ recorded.\r\n\ @return\ (WeatherStation)\ depicts\ a\ weather\ station\ that\ has\ the\r\n\ lowest\ average\ rainfall.\r\n
+comment6.params=
+comment6.target=WeatherStation\ lowestStation()
+comment6.text=\r\n\ Returns\ a\ weather\ station\ with\ the\ lowest\ average\ rainfall\r\n\ no\ matter\ the\ month,\ returns\ null\ when\ no\ rainfall\ was\ recorded.\r\n\ \r\n\ @return\ (WeatherStation)\ depicts\ a\ weather\ station\ with\ the\r\n\ lowest\ average\ rainfall.\r\n
+numComments=7

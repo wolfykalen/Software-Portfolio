@@ -1,0 +1,43 @@
+# Compiled files
+*.class
+*.o
+*.exe
+*.out
+*.app
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+target/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Large data files (exceeds GitHub 100MB limit)
+*.csv
+*.Rhistory
+
+# Exclude original folders, only keep Best folders
+CS1114/
+CS2114/
+CS2505/
+CS3114/
+Python Class/
+R Projects/

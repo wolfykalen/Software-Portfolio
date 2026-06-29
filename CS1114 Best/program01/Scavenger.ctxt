@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Scavenger
+comment0.text=\r\n\ \ This\ will\ navigate\ jeroo\ around\ the\ map\ picking\ up\ flowers\r\n\ \ jeroo\ will\ start\ with\ the\ top\ of\ the\ map\ then\ bottom\ ending\ in\ the\ middle\ \r\n\ \ @author\ kalendaco\r\n\ \ @version\ 2023.09.05\r\n
+comment1.params=
+comment1.target=Scavenger()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Scavenger\ object.\r\n
+comment2.params=
+comment2.target=void\ collectFlowers()
+comment2.text=\r\n\ this\ takes\ in\ all\ other\ methods\ to\ complete\ the\ task\ \r\n
+comment3.params=
+comment3.target=void\ getFlowerNorth()
+comment3.text=\r\n\ this\ brings\ jeroo\ to\ the\ top\ of\ the\ map\ \ \r\n
+comment4.params=
+comment4.target=void\ pickNorthFlowers()
+comment4.text=\r\n\ this\ allows\ jeroo\ to\ pick\ the\ flower\ up\ top\r\n
+comment5.params=
+comment5.target=void\ goSouth()
+comment5.text=\r\n\ navigates\ jeroo\ to\ the\ bottom\ of\ the\ map\r\n
+comment6.params=
+comment6.target=void\ pickSouthFlowers()
+comment6.text=\r\n\ allows\ jerooo\ to\ pick\ flowers\ at\ the\ bottom\ of\ the\ map\r\n
+comment7.params=
+comment7.target=void\ middle()
+comment7.text=\r\n\ send\ jeroo\ to\ pick\ the\ middle\ flower\ \r\n
+numComments=8

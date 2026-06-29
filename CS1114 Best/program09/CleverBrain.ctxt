@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CleverBrain
+comment0.text=\r\n\ \ A\ class\ that\ creates\ a\ new\ and\ smarter\ brain\ to\ complete\ a\ game\ of\r\n\ \ tetris\ to\ the\ best\ of\ its\ ability\ by\ running\ through\ for\ loops\r\n\r\n\ \ @author\ kalendaco\r\n\ \ @version\ 2023.10.31\r\n
+comment1.params=
+comment1.target=CleverBrain()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ CleverBrain\ object.\r\n
+comment2.params=board\ piece\ heightLimit
+comment2.target=student.tetris.Move\ bestMove(student.tetris.Board,\ student.tetris.Piece,\ int)
+comment2.text=\r\n\ utilizing\ the\ rateBoard\ method\ the\ best\ possible\ move\ is\ \r\n\ determined\ and\ executed\ \r\n\ @param\ board\ the\ board\ being\ used\r\n\ @param\ piece\ the\ piece\ being\ placed\r\n\ @param\ heightLimit\ shows\ the\ limit\ the\ individual\ columns\ can\ \r\n\ reach\ before\ the\ game\ is\ ends\r\n\ @return\ returns\ the\ move\ of\ the\ best\ possible\ action\r\n
+comment3.params=board
+comment3.target=double\ rateBoard(student.tetris.Board)
+comment3.text=\r\n\ takes\ the\ average\ height\ of\ all\ the\ columns\ then\ takes\ the\ \r\n\ total\ number\ of\ blocks\ *\ the\ highest\ column\ \r\n\ @param\ board\ the\ board\ that\ is\ used\r\n\ @return\ returns\ the\ rating\ for\ all\ possible\ moves\ to\ be\ used\ in\ \r\n\ bestMove\ method\r\n
+comment4.params=piece\ board\ column\ newMove
+comment4.target=void\ movePiece(student.tetris.Piece,\ student.tetris.Board,\ int,\ student.tetris.Move)
+comment4.text=\r\n\ makes\ a\ move\ on\ the\ board\ then\ assings\ that\ spot\ to\ a\ value\r\n\ sets\ the\ location\ of\ a\ \ move\ to\ that\ point\ and\ clear\ the\ rows.\r\n\ @param\ piece\ the\ piece\ being\ placed\r\n\ @param\ board\ the\ board\ being\ used\r\n\ @param\ column\ the\ column\ that\ is\ being\ assigned\ to\ the\ \r\n\ point\ on\ the\ board\ for\ the\ piece\r\n\ @param\ newMove\ the\ move\ that\ ends\ up\ being\ executed\r\n
+numComments=5

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=WeatherBureauTest
+comment0.text=\r\n\ \ A\ test\ class\ for\ the\ WeatherBureau\ class.\r\n\r\n\ \ @author\ kalendaco\r\n\ \ @version\ 2023.11.28\r\n
+comment1.params=
+comment1.target=WeatherBureauTest()
+comment1.text=\r\n\ Creates\ a\ new\ WeatherBureauTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ \r\n
+comment3.params=
+comment3.target=void\ testRecordDailySummary()
+comment3.text=\r\n\ A\ test\ method\ for\ the\ recordDailySummary()\ \r\n
+comment4.params=
+comment4.target=void\ testRecordDailySummaries()
+comment4.text=\r\n\ A\ test\ method\ for\ the\ recordDailySummaries()\ \r\n
+comment5.params=
+comment5.target=void\ testGetStation()
+comment5.text=\r\n\ A\ test\ method\ for\ the\ getStation()\ \r\n
+comment6.params=
+comment6.target=void\ testLowestStation()
+comment6.text=\r\n\ A\ test\ method\ for\ the\ lowestStation()\ \r\n
+comment7.params=
+comment7.target=void\ testLowestStation2()
+comment7.text=\r\n\ A\ test\ method\ for\ the\ lowestStaion()\ \r\n
+numComments=8
