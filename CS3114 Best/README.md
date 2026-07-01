@@ -116,7 +116,7 @@ Each project can be run in Eclipse or IntelliJ IDEA:
 - **Languages**: Java
 - **Testing Framework**: JUnit
 
-## 💡 Why This Portfolio Impresses Recruiters
+## 💡 Why This Portfolio 
 
 1. **Advanced Data Structures**: Shows knowledge beyond basic arrays/lists
 2. **Real-World Applications**: GIS, recommendation systems, air traffic control
