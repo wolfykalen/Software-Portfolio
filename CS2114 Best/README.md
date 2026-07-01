@@ -1,7 +1,7 @@
 # CS2114 Best Projects - Data Structures & Algorithms
 
-**Course**: CS2114 - Data Structures & Algorithms  
-**Focus**: Advanced data structures, algorithm implementation, software design  
+**Course**: CS2114 - Data Structures & Algorithms
+**Focus**: Advanced data structures, algorithm implementation, software design
 **Author**: Kalen Dacosta (kalendaco)
 
 ## 📋 Overview
@@ -117,8 +117,8 @@ Each project can be run in Eclipse or IntelliJ IDEA:
 
 ## 📊 Project Statistics
 
-- **Total Projects**: 5
-- **Test Files**: 15+
+- **Total Projects**: 4
+- **Test Files**: 13+
 - **Languages**: Java
 - **Data Structures**: Arrays, Linked Lists, Doubly Linked Lists, Queues, Sets, Stacks
 - **Testing Framework**: JUnit

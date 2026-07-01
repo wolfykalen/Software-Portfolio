@@ -22,7 +22,7 @@ Each folder represents a course with my strongest projects selected to demonstra
 
 ### [CS2114-Best](./CS2114%20Best/) - Data Structures & Algorithms
 *Focus: Advanced data structures, algorithm implementation*
-- **5 projects** demonstrating array/linked implementations, recursive algorithms
+- **4 projects** demonstrating array/linked implementations, recursive algorithms
 - Doubly linked lists, queues, sets, GUI applications
 
 ### [CS2505-Best](./CS2505%20Best/) - Computer Organization & C Programming
