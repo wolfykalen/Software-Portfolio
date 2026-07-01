@@ -69,9 +69,9 @@ Each project folder contains its own README with specific setup instructions. Ge
 
 ## 📧 Contact
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [your-linkedin-profile]
-- **GitHub**: [your-github-username]
+- **Email**: Kalendaco@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/kalen-dacosta-902696264/
+- **GitHub**: wolfykalen
 
 ---
 
