@@ -139,6 +139,16 @@ Each R script can be run in RStudio or R console:
 3. Run line-by-line or entire script
 4. Ensure required packages are installed: `install.packages(c("dplyr", "ggplot2", "rvest"))`
 
+## 📁 Data Files Note
+ 
+Due to GitHub's file size limits (100 MB maximum), the original data files referenced in these scripts are not included in this repository:
+ 
+- `merged-exam-rps-data.csv` (104 MB) - Used in Final Exam
+- `bikepghmembers.csv` - Used in Week 5 Homework
+- Other large CSV files
+ 
+The R scripts demonstrate the data analysis techniques and logic used to process these datasets. To run the scripts with actual data, you would need to obtain the original data files from their respective sources or modify the file paths in the scripts to point to your local data files.
+
 ## 📊 Project Statistics
 
 - **Total Projects**: 4
