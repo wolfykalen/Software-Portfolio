@@ -1,7 +1,7 @@
 # R Projects Best - Data Analysis & Visualization
 
-**Course**: ECON 4614 - Economic Data Analysis  
-**Focus**: Data cleaning, manipulation, visualization, statistical analysis with R  
+**Course**: ECON 4614 - Economic Data Analysis
+**Focus**: Data cleaning, manipulation, visualization, statistical analysis with R
 **Author**: Kalen Dacosta (kalendaco)
 
 ## 📋 Overview
@@ -32,9 +32,9 @@ These 4 comprehensive R projects demonstrate proficiency in data analysis, clean
 ```r
 # Corporate-to-corporate transactions
 corpEntityFlag <- c("LLC", "INC", "CORP", "BANK", ...)
-corp_to_corp <- df[grepl(paste(corpEntityFlag, collapse="|"), 
-                          df$buyer) & 
-                  grepl(paste(corpEntityFlag, collapse="|"), 
+corp_to_corp <- df[grepl(paste(corpEntityFlag, collapse="|"),
+                          df$buyer) &
+                  grepl(paste(corpEntityFlag, collapse="|"),
                           df$seller), ]
 ```
 
@@ -139,14 +139,24 @@ Each R script can be run in RStudio or R console:
 3. Run line-by-line or entire script
 4. Ensure required packages are installed: `install.packages(c("dplyr", "ggplot2", "rvest"))`
 
-## 📊 Project Statistics
+## � Data Files Note
+
+Due to GitHub's file size limits (100 MB maximum), the original data files referenced in these scripts are not included in this repository:
+
+- `merged-exam-rps-data.csv` (104 MB) - Used in Final Exam
+- `bikepghmembers.csv` - Used in Week 5 Homework
+- Other large CSV files
+
+The R scripts demonstrate the data analysis techniques and logic used to process these datasets. To run the scripts with actual data, you would need to obtain the original data files from their respective sources or modify the file paths in the scripts to point to your local data files.
+
+## �📊 Project Statistics
 
 - **Total Projects**: 4
 - **Lines of Code**: 500+
 - **Packages**: dplyr, ggplot2, rvest
 - **Data Sources**: BLS (web scraping), real estate transactions, survey data
 
-## 💡 Why This Portfolio 
+## 💡 Why This Portfolio
 
 1. **Complete Data Pipeline**: From raw data to insights
 2. **Real-World Data**: Economic data, real estate, survey responses
