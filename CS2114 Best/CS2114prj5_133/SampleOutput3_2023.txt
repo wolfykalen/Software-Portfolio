@@ -1,0 +1,26 @@
+ArtAllDay
+traditional: 41.1
+==========
+australian_wildlife
+traditional: 34.6
+==========
+JustBeatz
+traditional: 171.1
+==========
+wizardHighSchool
+traditional: 118.3
+==========
+**********
+**********
+JustBeatz
+reach: 18.3
+==========
+wizardHighSchool
+reach: 7.7
+==========
+australian_wildlife
+reach: 3.5
+==========
+ArtAllDay
+reach: N/A
+==========
