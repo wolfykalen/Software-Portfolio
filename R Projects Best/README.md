@@ -146,7 +146,7 @@ Each R script can be run in RStudio or R console:
 - **Packages**: dplyr, ggplot2, rvest
 - **Data Sources**: BLS (web scraping), real estate transactions, survey data
 
-## 💡 Why This Portfolio Impresses Recruiters
+## 💡 Why This Portfolio 
 
 1. **Complete Data Pipeline**: From raw data to insights
 2. **Real-World Data**: Economic data, real estate, survey responses

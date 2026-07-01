@@ -1,9 +1,0 @@
-This file should contain one of two things: Either a complete transcript
-showing the prompts and responses for any LLM use that helped you to complete
-this project, or else a statement saying that you did not use any LLM to help
-you to complete this project.
-
-“As a Hokie, I will conduct myself with honor and integrity at all times.
- I will not lie, cheat, or steal, nor will I accept the actions of those who do.”
- 
- No LLM used

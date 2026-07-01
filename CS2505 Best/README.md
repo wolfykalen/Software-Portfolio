@@ -137,7 +137,7 @@ make
 - **Key Skills**: Memory Management, Bit Manipulation, File I/O, Pointers
 - **Highlight**: Carnegie Mellon Data Lab (industry-recognized assignment)
 
-## 💡 Why This Portfolio Impresses Recruiters
+## 💡 Why This Portfolio 
 
 1. **CMU Data Lab**: Shows advanced computer systems knowledge
 2. **Memory Management**: Demonstrates understanding of low-level programming

@@ -1,8 +1,0 @@
-I used windsurf to help me generate comprehensive comments
-
-I asked it to look over this class and give me more comprehensive comments 
-other than what I had 
-
-windsurf auto adds the comments for me 
-
-then I go back in and change them to my liking
