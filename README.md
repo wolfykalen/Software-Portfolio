@@ -12,35 +12,36 @@ Each folder represents a course with my strongest projects selected to demonstra
 - **Data Structures**: Implementation of arrays, linked lists, trees, graphs, and advanced structures
 - **Multiple Languages**: Java, C, Python, R
 - **Real-World Applications**: Data analysis, GUI applications, algorithmic problem-solving
+- **Industry-Recognized**: Carnegie Mellon Data Lab completion demonstrates advanced systems understanding
 
 ## 📂 Project Categories
 
-### [CS1114-Best](./CS1114%20Best/) - Introduction to Computing
+### [Java-Testing-Game-Development](./Java-Testing-Game-Development/) - Introduction to Computing
 *Focus: Object-oriented programming, testing, game development*
 - **5 projects** with extensive unit testing (400+ test lines per project)
 - Maze navigation, Tetris AI, simulation modeling, data processing
 
-### [CS2114-Best](./CS2114%20Best/) - Data Structures & Algorithms
+### [Data-Structures-Algorithms](./Data-Structures-Algorithms/) - Data Structures & Algorithms
 *Focus: Advanced data structures, algorithm implementation*
 - **4 projects** demonstrating array/linked implementations, recursive algorithms
 - Doubly linked lists, queues, sets, GUI applications
 
-### [CS2505-Best](./CS2505%20Best/) - Computer Organization & C Programming
+### [C-Programming-Systems](./C-Programming-Systems/) - Computer Organization & C Programming
 *Focus: Low-level programming, memory management, bit manipulation*
 - **5 projects** including the prestigious Carnegie Mellon Data Lab
 - File I/O, dynamic memory, bit-level operations, assembly concepts
 
-### [CS3114-Best](./CS3114%20Best/) - Advanced Data Structures
+### [Advanced-Data-Structures](./Advanced-Data-Structures/) - Advanced Data Structures
 *Focus: Complex algorithms, spatial data structures, optimization*
 - **4 projects** with sparse matrices, k-d trees, radix sort, skip lists
 - Air traffic control simulation, geographic information systems
 
-### [R-Projects-Best](./R%20Projects%20Best/) - Data Analysis with R
+### [Data-Analysis-Visualization](./Data-Analysis-Visualization/) - Data Analysis with R
 *Focus: Data cleaning, manipulation, visualization, statistical analysis*
 - **4 comprehensive projects** with dplyr, ggplot2, web scraping
 - Real estate analysis, economic data processing, readability metrics
 
-### [Python-Class-Best](./Python%20Class%20Best/) - Python Programming
+### [Python-Fundamentals](./Python-Fundamentals/) - Python Programming
 *Focus: Python fundamentals, data processing, algorithms*
 - **3 projects** demonstrating functions, file I/O, text processing
 - Shape calculators, data analysis, readability scoring
@@ -69,9 +70,9 @@ Each project folder contains its own README with specific setup instructions. Ge
 
 ## 📧 Contact
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [your-linkedin-profile]
-- **GitHub**: [your-github-username]
+- **Email**: Kalendaco@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/kalen-dacosta-902696264/
+- **GitHub**: wolfykalen
 
 ---
 

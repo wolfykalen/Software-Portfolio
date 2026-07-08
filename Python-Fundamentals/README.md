@@ -139,7 +139,7 @@ Or in Python IDE (PyCharm, VS Code, IDLE):
 - **Key Concepts**: Functions, File I/O, Data Structures, Algorithms
 - **Difficulty Level**: Beginner to Intermediate
 
-## 💡 Why This Portfolio Impresses Recruiters
+## 💡 Why This Portfolio 
 
 1. **Clean Code**: Well-structured, readable code with functions
 2. **Practical Applications**: Real-world problems (calculators, data analysis)
@@ -147,11 +147,3 @@ Or in Python IDE (PyCharm, VS Code, IDLE):
 4. **Algorithm Design**: Custom algorithms (syllable counting)
 5. **User Interaction**: Interactive programs with good UX
 6. **Mathematical Skills**: Statistical calculations and geometry
-
-## 🎯 Suitable Roles
-
-This portfolio is ideal for:
-- **Entry-level Python developer positions**
-- **Data analysis roles** (with additional training)
-- **Automation/scripting roles**
-- **Backend development** (with additional frameworks)
